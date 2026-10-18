@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BizCard</string>
+
+    <!-- MainActivity -->
+    <string name="main_title">כרטיס ביקור 📇</string>
+    <string name="hint_name">שם מלא</string>
+    <string name="hint_role">תפקיד</string>
+    <string name="hint_phone">טלפון</string>
+    <string name="hint_website">אתר</string>
+    <string name="btn_create">צור כרטיס</string>
+    <string name="btn_about">אודות</string>
+    <string name="toast_name_required">נא להזין שם</string>
+
+    <!-- CardActivity -->
+    <string name="btn_dial">📞 חייג</string>
+    <string name="btn_website">🌐 פתח אתר</string>
+    <string name="btn_share">📤 שתף</string>
+    <string name="btn_back">חזרה</string>
+    <string name="share_chooser_title">שתף כרטיס באמצעות</string>
+    <string name="toast_no_phone">אין מספר טלפון בכרטיס</string>
+    <string name="toast_no_website">אין כתובת אתר בכרטיס</string>
+
+    <!-- AboutActivity -->
+    <string name="about_title">אודות</string>
+    <string name="about_text">האפליקציה: BizCard - כרטיס ביקור דיגיטלי\nנוצר על ידי: עמרי שניר\nכיתה: יב</string>
+</resources>
